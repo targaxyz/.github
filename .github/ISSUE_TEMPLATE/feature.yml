@@ -1,0 +1,21 @@
+name: Feature
+description: New behaviour or an improvement
+labels: [feature]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: Who hits it and when.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would solve it
+  - type: checkboxes
+    id: i18n
+    attributes:
+      label: Text a person reads
+      options:
+        - label: This adds or changes user-facing text, so it ships in all 44 languages.

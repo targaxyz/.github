@@ -1,0 +1,21 @@
+name: Translation
+description: A wrong, missing or awkward string in one of the 44 languages
+labels: [i18n]
+body:
+  - type: input
+    id: lang
+    attributes:
+      label: Language
+      placeholder: e.g. pt-BR
+    validations:
+      required: true
+  - type: textarea
+    id: string
+    attributes:
+      label: The string, and where it shows
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What it should say
