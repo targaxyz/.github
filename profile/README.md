@@ -3,29 +3,19 @@
 
   # Targa
 
-  **AI security for digital communities.**
+  **The AI-powered anti-spam bot for Telegram.**
+
+  [targa.dev](https://targa.dev) · [Telegram](https://t.me/targapraetorian) · [X](https://x.com/targapraetorian)
 </div>
 
 ---
 
-Targa keeps online communities clean. It begins as a Telegram anti-spam bot and grows into a full security layer for the places people gather.
+Targa keeps Telegram groups clean. It catches fake admins, lookalike characters, edited messages, scams in pictures and QR codes, and raids, in any language.
 
-## The product
+- **Every action has a reason.** Admins can ask `/why` about any removal or ban and get a plain answer.
+- **On from the first message.** Add Targa to a group and it starts protecting it straight away.
+- **In 44 languages.** The bot, the dashboard and the site all speak the community's language.
 
-**Targa M1** — a free anti-spam bot for Telegram. Classical, non-LLM detection: fast, deterministic, and it explains every action it takes.
+Targa is in private beta. [Request access at targa.dev](https://targa.dev).
 
-## Why Targa
-
-- **Built for modern spam.** Closes the gaps that defeat rule-based bots today: homoglyph handles, edit-after-post attacks, image-text scams, admin impersonation.
-- **Explainable.** Every action carries a structured reason. No silent bans.
-- **Free.** M1 is the foundation every community gets, and it stays free.
-
-## Where it's going
-
-More layers on top of M1 — smarter detection, wallet-based identity gating across TON, Polkadot, SUI, and Base — and, beyond moderation, a security company for digital communities: threat intelligence, a live public Spam Index, and an in-house research arm.
-
-## Status
-
-Targa M1 is in **private beta**. Access is invite-only while we harden the foundation.
-
-<sub>"Targa" is the everyday name. The company is <strong>Targa-Praetorian</strong> — shield and sword.</sub>
+<sub>"Targa" is the everyday name. The company is <strong>Targa Praetorian</strong>.</sub>
